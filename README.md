@@ -1,1 +1,1 @@
-My first Git project
+Blah blah blah blah blah
